@@ -2,6 +2,6 @@ import { sum } from "./sum";
 
 describe("sum", () => {
   it("task 1", () => {
-    expect(sum(1, 2)).toEqual(4);
+    expect(sum(1, 2)).toEqual(5);
   });
 });
